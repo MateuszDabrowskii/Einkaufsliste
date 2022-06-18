@@ -1,1 +1,3 @@
-# Einkaufsliste
+# Verwendung:
+
+go run main.go 
